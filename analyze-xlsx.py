@@ -19,8 +19,8 @@ Output is an XLSX file with worksheets that document:
 
  for each column in the input spreadsheet.
 
- This is useful for quickly asseing the data types and sizes in a 
- spreadsheet when considering how to bes import or convert it.
+ This is useful for quickly assessing the data types and sizes in a 
+ spreadsheet when considering how to best import or convert it.
 '''
 
 
